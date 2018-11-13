@@ -1,0 +1,5 @@
+Artistas
+Albunes
+Canciones
+Fecha
+Nacimiento
